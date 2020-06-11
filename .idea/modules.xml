@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Reversing/Problems-Reversing.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Reversing/Problems-Reversing.iml" group="Simple_Chatty_Bot/Problems-Reversing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Reversing/Problems-Reversing_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Reversing/Problems-Reversing_main.iml" group="Simple_Chatty_Bot/Problems-Reversing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Reversing/Problems-Reversing_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Reversing/Problems-Reversing_test.iml" group="Simple_Chatty_Bot/Problems-Reversing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Snail/Problems-Snail.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Snail/Problems-Snail.iml" group="Simple_Chatty_Bot/Problems-Snail" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Snail/Problems-Snail_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Snail/Problems-Snail_main.iml" group="Simple_Chatty_Bot/Problems-Snail" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Snail/Problems-Snail_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Snail/Problems-Snail_test.iml" group="Simple_Chatty_Bot/Problems-Snail" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Chatty_Bot.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Chatty_Bot.iml" group="Simple_Chatty_Bot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Simple_Chatty_Bot/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Simple_Chatty_Bot/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Simple_Chatty_Bot/util" />
+    </modules>
+  </component>
+</project>

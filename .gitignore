@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Problems/Snail/out/
+/Problems/Snail/out/production/classes/
